@@ -24,4 +24,4 @@ Orbita browser for running in docker with remote access
 
 `npm i puppeteer-core` - install puppeteer-core
 
-`node test.js` - run example
+`node test.js` - run example (в этом файле есть комментарий по поводу подключения puppeteer!)
